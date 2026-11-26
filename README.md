@@ -12,7 +12,7 @@ W3Schools C++ eğitim içeriğinin tamamını, diyagramlarını ve **"Try it You
    ```
 3. Ardından **`Baslat.bat`** dosyasına çift tıklayarak uygulamayı başlatın.
 
-* **Windows `.bat` dosyasını engellerse:** İndirdiğiniz `.zip` dosyasına sağ tıklayıp **Özellikler → Engellemeyi Kaldır → Tamam** dedikten sonra klasöre çıkartın; yine açılmazsa klasör içinde terminali açıp `python uygulama.py` komutuyla başlatın.
+* **Windows `.bat` dosyasını engellerse:** `.bat` dosyasını yönetici olarak çalıştırın VEYA İndirdiğiniz `.zip` dosyasına sağ tıklayıp **Özellikler → Engellemeyi Kaldır → Tamam** dedikten sonra klasöre çıkartın; yine açılmazsa klasör içinde terminali açıp `python uygulama.py` komutuyla başlatın.
 * **C++ Kodlarını Çalıştırma:** Bilgisayarınızda **MinGW / MSYS2 (`g++`)** kuruluysa **Run ❯** butonu kodları gerçek C++ derleyicisiyle çalıştırır. `g++` kurulu değilse veya Windows Akıllı Uygulama Denetimi derlenen `.exe` dosyasını engellerse uygulama otomatik olarak dahili yedek motora geçer (üst çubuktaki **Yedek Çalıştır** butonunu da kullanabilirsiniz).
 * **Sadece Tarayıcıda Okuma:** İlk kurulumda `index.html` oluşturulduktan sonra, masaüstü uygulamasını açmadan yalnızca dersleri okumak için klasördeki `index.html` dosyasına çift tıklayarak tarayıcıda açabilirsiniz.
 
