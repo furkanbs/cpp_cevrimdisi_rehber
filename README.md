@@ -10,7 +10,9 @@ W3Schools C++ eğitim içeriğinin tamamını, diyagramlarını ve **"Try it You
    - İlk çalıştırmada gerekli Python arayüz kütüphanesi (`pywebview`) otomatik kurulur.
    - Kod örneklerindeki **Run ❯** butonunun çalışması için bilgisayarınızda **MinGW / MSYS2 (`g++`)** kurulu olmalıdır.
 
-**Önemli Not**: İndirdiğiniz .zip dosyasına sağ tıklayıp Özellikler → Engellemeyi Kaldır → Tamam dedikten sonra klasöre çıkartın ve Baslat.bat dosyasını çalıştırın. Windows yine de .bat dosyasını engellerse klasör içinde terminali açıp python uygulama.py komutuyla uygulamayı doğrudan başlatabilirsiniz.
++ Normal açılış: Klasördeki Baslat.bat dosyasına çift tıklayın.
+
++ Windows .bat dosyasını engellerse (Yedek Açılış): İndirilen .zip dosyasına sağ tıklayıp Özellikler → Engellemeyi Kaldır → Tamam dedikten sonra klasöre çıkartın; yine açılmazsa klasör içinde terminali açıp python uygulama.py komutuyla başlatın.
 
 ### 2. Sadece Okuma Modu (Kurulumsuz)
 Python veya derleyici kurmadan yalnızca dersleri okumak için klasördeki **`index.html`** dosyasına çift tıklayarak herhangi bir web tarayıcısında açabilirsiniz.
